@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mr-Azeez/cookbook-app/static/css/main.613d0ecf.css",
-    "main.js": "/Mr-Azeez/cookbook-app/static/js/main.ae55e655.js",
-    "static/js/453.547045e6.chunk.js": "/Mr-Azeez/cookbook-app/static/js/453.547045e6.chunk.js",
-    "index.html": "/Mr-Azeez/cookbook-app/index.html",
-    "main.613d0ecf.css.map": "/Mr-Azeez/cookbook-app/static/css/main.613d0ecf.css.map",
-    "main.ae55e655.js.map": "/Mr-Azeez/cookbook-app/static/js/main.ae55e655.js.map",
-    "453.547045e6.chunk.js.map": "/Mr-Azeez/cookbook-app/static/js/453.547045e6.chunk.js.map"
+    "main.css": "/Mr-Azeez/cook--book-app/static/css/main.613d0ecf.css",
+    "main.js": "/Mr-Azeez/cook--book-app/static/js/main.87901086.js",
+    "static/js/453.547045e6.chunk.js": "/Mr-Azeez/cook--book-app/static/js/453.547045e6.chunk.js",
+    "index.html": "/Mr-Azeez/cook--book-app/index.html",
+    "main.613d0ecf.css.map": "/Mr-Azeez/cook--book-app/static/css/main.613d0ecf.css.map",
+    "main.87901086.js.map": "/Mr-Azeez/cook--book-app/static/js/main.87901086.js.map",
+    "453.547045e6.chunk.js.map": "/Mr-Azeez/cook--book-app/static/js/453.547045e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.613d0ecf.css",
-    "static/js/main.ae55e655.js"
+    "static/js/main.87901086.js"
   ]
 }
